@@ -1,4 +1,4 @@
-# cmake-boilderplate
+# cmake-boilerplate
 Simple CMake setup with one exec and one library and installer (Mac)
 
 For now it is only for Mac
